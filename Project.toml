@@ -1,0 +1,4 @@
+name = "FatoracaoLU"
+uuid = "340d9565-8a60-422a-be09-b618e4bf2b07"
+authors = ["Alexandre Hagihara <alexandre.hagihara@gmail.com>"]
+version = "0.1.0"
